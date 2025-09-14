@@ -1,0 +1,690 @@
+{
+  "products": {
+    "smartphones": [
+      {
+        "id": "phone1",
+        "name": "Samsung Galaxy S23",
+        "category": "smartphones",
+        "amazon": {
+          "price": 799.99,
+          "rating": 4.5,
+          "reviews": 2345,
+          "availability": "In Stock",
+          "link": "https://www.amazon.com/samsung-galaxy-s23",
+          "image": "https://m.media-amazon.com/images/I/71HtN4qqLZL._AC_UY218_.jpg"
+        },
+        "flipkart": {
+          "price": 789.99,
+          "rating": 4.6,
+          "reviews": 1987,
+          "availability": "In Stock",
+          "link": "https://www.flipkart.com/samsung-galaxy-s23",
+          "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/a/p/r/galaxy-s23-ultra-sm-s918bzkcins-samsung-original-imagqjtfhaezpefm.jpeg"
+        }
+      },
+      {
+        "id": "phone2",
+        "name": "iPhone 15",
+        "category": "smartphones",
+        "amazon": {
+          "price": 999.99,
+          "rating": 4.7,
+          "reviews": 3421,
+          "availability": "In Stock",
+          "link": "https://www.amazon.com/apple-iphone-15",
+          "image": "https://m.media-amazon.com/images/I/71d7rfSl0wL._AC_UY218_.jpg"
+        },
+        "flipkart": {
+          "price": 979.99,
+          "rating": 4.8,
+          "reviews": 2876,
+          "availability": "In Stock",
+          "link": "https://www.flipkart.com/apple-iphone-15",
+          "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/k/l/l/-original-imagtc5fz9spysyk.jpeg"
+        }
+      },
+      {
+        "id": "phone3",
+        "name": "Google Pixel 8",
+        "category": "smartphones",
+        "amazon": {
+          "price": 699.99,
+          "rating": 4.6,
+          "reviews": 1876,
+          "availability": "In Stock",
+          "link": "https://www.amazon.com/google-pixel-8",
+          "image": "https://m.media-amazon.com/images/I/71Vd1+ZnJAL._AC_UY218_.jpg"
+        },
+        "flipkart": {
+          "price": 709.99,
+          "rating": 4.5,
+          "reviews": 1543,
+          "availability": "In Stock",
+          "link": "https://www.flipkart.com/google-pixel-8",
+          "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/2/s/7/-original-imagtc9nmfqphujv.jpeg"
+        }
+      },
+      {
+        "id": "phone4",
+        "name": "OnePlus 12",
+        "category": "smartphones",
+        "amazon": {
+          "price": 849.99,
+          "rating": 4.5,
+          "reviews": 1456,
+          "availability": "In Stock",
+          "link": "https://www.amazon.com/oneplus-12",
+          "image": "https://m.media-amazon.com/images/I/71k3gOik46L._AC_UY218_.jpg"
+        },
+        "flipkart": {
+          "price": 829.99,
+          "rating": 4.6,
+          "reviews": 1289,
+          "availability": "In Stock",
+          "link": "https://www.flipkart.com/oneplus-12",
+          "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/a/s/r/-original-imagwy8dkghfmzys.jpeg"
+        }
+      },
+      {
+        "id": "phone5",
+        "name": "Xiaomi 14 Ultra",
+        "category": "smartphones",
+        "amazon": {
+          "price": 749.99,
+          "rating": 4.3,
+          "reviews": 876,
+          "availability": "In Stock",
+          "link": "https://www.amazon.com/xiaomi-14-ultra",
+          "image": "https://m.media-amazon.com/images/I/61uU+NCCcFL._AC_UY218_.jpg"
+        },
+        "flipkart": {
+          "price": 729.99,
+          "rating": 4.4,
+          "reviews": 743,
+          "availability": "In Stock",
+          "link": "https://www.flipkart.com/xiaomi-14-ultra",
+          "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/a/o/z/-original-imagwxef5qhqrzxz.jpeg"
+        }
+      }
+    ],
+    "laptops": [
+      {
+        "id": "laptop1",
+        "name": "MacBook Pro 14",
+        "category": "laptops",
+        "amazon": {
+          "price": 1499.99,
+          "rating": 4.8,
+          "reviews": 1256,
+          "availability": "In Stock",
+          "link": "https://www.amazon.com/apple-macbook-pro-14",
+          "image": "https://m.media-amazon.com/images/I/61fd2oCrvyL._AC_UY218_.jpg"
+        },
+        "flipkart": {
+          "price": 1489.99,
+          "rating": 4.7,
+          "reviews": 978,
+          "availability": "In Stock",
+          "link": "https://www.flipkart.com/apple-macbook-pro-14",
+          "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/5/6/i/-original-imaggmxjujghhaez.jpeg"
+        }
+      },
+      {
+        "id": "laptop2",
+        "name": "Dell XPS 15",
+        "category": "laptops",
+        "amazon": {
+          "price": 1299.99,
+          "rating": 4.5,
+          "reviews": 876,
+          "availability": "In Stock",
+          "link": "https://www.amazon.com/dell-xps-15",
+          "image": "https://m.media-amazon.com/images/I/71WM4VYM5TL._AC_UY218_.jpg"
+        },
+        "flipkart": {
+          "price": 1279.99,
+          "rating": 4.6,
+          "reviews": 734,
+          "availability": "In Stock",
+          "link": "https://www.flipkart.com/dell-xps-15",
+          "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/g/i/a/-original-imagp73fvhebsdte.jpeg"
+        }
+      },
+      {
+        "id": "laptop3",
+        "name": "HP Spectre x360",
+        "category": "laptops",
+        "amazon": {
+          "price": 1199.99,
+          "rating": 4.4,
+          "reviews": 654,
+          "availability": "In Stock",
+          "link": "https://www.amazon.com/hp-spectre-x360",
+          "image": "https://m.media-amazon.com/images/I/71nOGWDxj4L._AC_UY218_.jpg"
+        },
+        "flipkart": {
+          "price": 1189.99,
+          "rating": 4.3,
+          "reviews": 589,
+          "availability": "In Stock",
+          "link": "https://www.flipkart.com/hp-spectre-x360",
+          "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/j/y/8/-original-imagrudzh3pmcgzg.jpeg"
+        }
+      },
+      {
+        "id": "laptop4",
+        "name": "Lenovo ThinkPad X1 Carbon",
+        "category": "laptops",
+        "amazon": {
+          "price": 1399.99,
+          "rating": 4.6,
+          "reviews": 789,
+          "availability": "In Stock",
+          "link": "https://www.amazon.com/lenovo-thinkpad-x1-carbon",
+          "image": "https://m.media-amazon.com/images/I/71krmFGzuhL._AC_UY218_.jpg"
+        },
+        "flipkart": {
+          "price": 1429.99,
+          "rating": 4.5,
+          "reviews": 653,
+          "availability": "In Stock",
+          "link": "https://www.flipkart.com/lenovo-thinkpad-x1-carbon",
+          "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/y/i/7/thinkpad-x1-carbon-thin-and-light-laptop-lenovo-original-imaghy7anfdumeg2.jpeg"
+        }
+      },
+      {
+        "id": "laptop5",
+        "name": "ASUS ROG Zephyrus G14",
+        "category": "laptops",
+        "amazon": {
+          "price": 1499.99,
+          "rating": 4.7,
+          "reviews": 1023,
+          "availability": "In Stock",
+          "link": "https://www.amazon.com/asus-rog-zephyrus-g14",
+          "image": "https://m.media-amazon.com/images/I/81Lx9Ugo5-L._AC_UY218_.jpg"
+        },
+        "flipkart": {
+          "price": 1449.99,
+          "rating": 4.6,
+          "reviews": 897,
+          "availability": "In Stock",
+          "link": "https://www.flipkart.com/asus-rog-zephyrus-g14",
+          "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/5/6/o/-original-imaghzahgt3hpmja.jpeg"
+        }
+      }
+    ],
+    "headphones": [
+      {
+        "id": "headphone1",
+        "name": "Sony WH-1000XM5",
+        "category": "headphones",
+        "amazon": {
+          "price": 349.99,
+          "rating": 4.7,
+          "reviews": 3456,
+          "availability": "In Stock",
+          "link": "https://www.amazon.com/sony-wh1000xm5",
+          "image": "https://m.media-amazon.com/images/I/61+btxzpfDL._AC_UY218_.jpg"
+        },
+        "flipkart": {
+          "price": 339.99,
+          "rating": 4.8,
+          "reviews": 2987,
+          "availability": "In Stock",
+          "link": "https://www.flipkart.com/sony-wh1000xm5",
+          "image": "https://rukminim2.flixcart.com/image/612/612/l31x2fk0/headphone/a/s/h/-original-image9ehehz8amg2.jpeg"
+        }
+      },
+      {
+        "id": "headphone2",
+        "name": "Apple AirPods Pro",
+        "category": "headphones",
+        "amazon": {
+          "price": 249.99,
+          "rating": 4.6,
+          "reviews": 4321,
+          "availability": "In Stock",
+          "link": "https://www.amazon.com/apple-airpods-pro",
+          "image": "https://m.media-amazon.com/images/I/61SUj2aKoEL._AC_UY218_.jpg"
+        },
+        "flipkart": {
+          "price": 239.99,
+          "rating": 4.7,
+          "reviews": 3876,
+          "availability": "In Stock",
+          "link": "https://www.flipkart.com/apple-airpods-pro",
+          "image": "https://rukminim2.flixcart.com/image/612/612/kpinwy80/headphone/r/1/q/mwp22hn-a-apple-original-imag3qe9eqkfhmg8.jpeg"
+        }
+      },
+      {
+        "id": "headphone3",
+        "name": "Bose QuietComfort 45",
+        "category": "headphones",
+        "amazon": {
+          "price": 299.99,
+          "rating": 4.5,
+          "reviews": 2345,
+          "availability": "In Stock",
+          "link": "https://www.amazon.com/bose-quietcomfort-45",
+          "image": "https://m.media-amazon.com/images/I/51JbsHSktkL._AC_UY218_.jpg"
+        },
+        "flipkart": {
+          "price": 289.99,
+          "rating": 4.6,
+          "reviews": 1876,
+          "availability": "In Stock",
+          "link": "https://www.flipkart.com/bose-quietcomfort-45",
+          "image": "https://rukminim2.flixcart.com/image/612/612/kwtkxow0/headphone/r/1/r/-original-imag9ebfydkrrezt.jpeg"
+        }
+      },
+      {
+        "id": "headphone4",
+        "name": "Samsung Galaxy Buds Pro",
+        "category": "headphones",
+        "amazon": {
+          "price": 179.99,
+          "rating": 4.3,
+          "reviews": 1765,
+          "availability": "In Stock",
+          "link": "https://www.amazon.com/samsung-galaxy-buds-pro",
+          "image": "https://m.media-amazon.com/images/I/51P0Stf5TYL._AC_UY218_.jpg"
+        },
+        "flipkart": {
+          "price": 169.99,
+          "rating": 4.4,
+          "reviews": 1453,
+          "availability": "In Stock",
+          "link": "https://www.flipkart.com/samsung-galaxy-buds-pro",
+          "image": "https://rukminim2.flixcart.com/image/612/612/kxhvf680/headphone/0/p/j/sm-r190nzkainu-samsung-original-imag9xtkyn3mdnnm.jpeg"
+        }
+      },
+      {
+        "id": "headphone5",
+        "name": "Sennheiser Momentum 4",
+        "category": "headphones",
+        "amazon": {
+          "price": 349.99,
+          "rating": 4.8,
+          "reviews": 987,
+          "availability": "In Stock",
+          "link": "https://www.amazon.com/sennheiser-momentum-4",
+          "image": "https://m.media-amazon.com/images/I/71RlO8CpWsL._AC_UY218_.jpg"
+        },
+        "flipkart": {
+          "price": 359.99,
+          "rating": 4.7,
+          "reviews": 876,
+          "availability": "In Stock",
+          "link": "https://www.flipkart.com/sennheiser-momentum-4",
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/g/z/q/-original-imagnb9z2w8gwew5.jpeg"
+        }
+      }
+    ],
+    "bottles": [
+      {
+        "id": "bottle1",
+        "name": "Hydro Flask 32oz",
+        "category": "bottles",
+        "amazon": {
+          "price": 44.95,
+          "rating": 4.8,
+          "reviews": 12567,
+          "availability": "In Stock",
+          "link": "https://www.amazon.com/hydro-flask-32oz",
+          "image": "https://m.media-amazon.com/images/I/61NZ3-Gx1rL._AC_UL320_.jpg"
+        },
+        "flipkart": {
+          "price": 42.99,
+          "rating": 4.7,
+          "reviews": 10234,
+          "availability": "In Stock",
+          "link": "https://www.flipkart.com/hydro-flask-32oz",
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/bottle/k/l/l/-original-imagg9nvghzw9ngf.jpeg"
+        }
+      },
+      {
+        "id": "bottle2",
+        "name": "Yeti Rambler 26oz",
+        "category": "bottles",
+        "amazon": {
+          "price": 39.99,
+          "rating": 4.7,
+          "reviews": 9876,
+          "availability": "In Stock",
+          "link": "https://www.amazon.com/yeti-rambler-26oz",
+          "image": "https://m.media-amazon.com/images/I/61Fsn6PogZL._AC_UL320_.jpg"
+        },
+        "flipkart": {
+          "price": 38.50,
+          "rating": 4.6,
+          "reviews": 8765,
+          "availability": "In Stock",
+          "link": "https://www.flipkart.com/yeti-rambler-26oz",
+          "image": "https://rukminim2.flixcart.com/image/612/612/l31x2fk0/bottle/u/s/p/750-stainless-steel-water-bottle-with-straw-lid-for-gym-office-original-image9g7kbr5xehz.jpeg"
+        }
+      },
+      {
+        "id": "bottle3",
+        "name": "CamelBak Chute Mag 32oz",
+        "category": "bottles",
+        "amazon": {
+          "price": 29.99,
+          "rating": 4.5,
+          "reviews": 7654,
+          "availability": "In Stock",
+          "link": "https://www.amazon.com/camelbak-chute-mag-32oz",
+          "image": "https://m.media-amazon.com/images/I/71oXuQbxQtL._AC_UL320_.jpg"
+        },
+        "flipkart": {
+          "price": 28.50,
+          "rating": 4.4,
+          "reviews": 6543,
+          "availability": "In Stock",
+          "link": "https://www.flipkart.com/camelbak-chute-mag-32oz",
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/bottle/q/s/p/1000-leak-proof-stainless-steel-water-bottle-for-gym-office-and-original-imagkz48fshnkrhk.jpeg"
+        }
+      },
+      {
+        "id": "bottle4",
+        "name": "Contigo Autoseal Water Bottle",
+        "category": "bottles",
+        "amazon": {
+          "price": 24.99,
+          "rating": 4.6,
+          "reviews": 5678,
+          "availability": "In Stock",
+          "link": "https://www.amazon.com/contigo-autoseal",
+          "image": "https://m.media-amazon.com/images/I/71Yni84jK9L._AC_UL320_.jpg"
+        },
+        "flipkart": {
+          "price": 26.50,
+          "rating": 4.5,
+          "reviews": 4532,
+          "availability": "In Stock",
+          "link": "https://www.flipkart.com/contigo-autoseal",
+          "image": "https://rukminim2.flixcart.com/image/612/612/l3vxbbk0/bottle/r/g/g/450-stainless-steel-450-ml-sipper-original-imagewpfhwzszqpn.jpeg"
+        }
+      },
+      {
+        "id": "bottle5",
+        "name": "S'well Stainless Steel Water Bottle",
+        "category": "bottles",
+        "amazon": {
+          "price": 35.00,
+          "rating": 4.7,
+          "reviews": 6543,
+          "availability": "In Stock",
+          "link": "https://www.amazon.com/swell-stainless-steel",
+          "image": "https://m.media-amazon.com/images/I/61mhULJfgIL._AC_UL320_.jpg"
+        },
+        "flipkart": {
+          "price": 33.50,
+          "rating": 4.6,
+          "reviews": 5432,
+          "availability": "In Stock",
+          "link": "https://www.flipkart.com/swell-stainless-steel",
+          "image": "https://rukminim2.flixcart.com/image/612/612/l2nmnww0/bottle/r/a/f/1000-copper-bottle-1-litre-h2o-original-imagdyun3aczwhgr.jpeg"
+        }
+      }
+    ],
+    "keyboards": [
+      {
+        "id": "keyboard1",
+        "name": "Logitech MX Keys",
+        "category": "keyboards",
+        "amazon": {
+          "price": 119.99,
+          "rating": 4.8,
+          "reviews": 5432,
+          "availability": "In Stock",
+          "link": "https://www.amazon.com/logitech-mx-keys",
+          "image": "https://m.media-amazon.com/images/I/71Xb+H3+GhL._AC_UY218_.jpg"
+        },
+        "flipkart": {
+          "price": 115.99,
+          "rating": 4.7,
+          "reviews": 4567,
+          "availability": "In Stock",
+          "link": "https://www.flipkart.com/logitech-mx-keys",
+          "image": "https://rukminim2.flixcart.com/image/416/416/keyboard/laptop-keyboard/v/m/g/logitech-mk850-original-imaepx3y9xvwghvs.jpeg"
+        }
+      },
+      {
+        "id": "keyboard2",
+        "name": "Keychron K2 Wireless",
+        "category": "keyboards",
+        "amazon": {
+          "price": 89.99,
+          "rating": 4.6,
+          "reviews": 3456,
+          "availability": "In Stock",
+          "link": "https://www.amazon.com/keychron-k2-wireless",
+          "image": "https://m.media-amazon.com/images/I/71h7JeC+wUL._AC_UY218_.jpg"
+        },
+        "flipkart": {
+          "price": 85.99,
+          "rating": 4.5,
+          "reviews": 3234,
+          "availability": "In Stock",
+          "link": "https://www.flipkart.com/keychron-k2-wireless",
+          "image": "https://rukminim2.flixcart.com/image/416/416/kevpwnk0/keyboard/laptop-keyboard/s/g/p/k2-original-imafvgsx3z8ndrrv.jpeg"
+        }
+      },
+      {
+        "id": "keyboard3",
+        "name": "Razer Huntsman Elite",
+        "category": "keyboards",
+        "amazon": {
+          "price": 169.99,
+          "rating": 4.5,
+          "reviews": 2345,
+          "availability": "In Stock",
+          "link": "https://www.amazon.com/razer-huntsman-elite",
+          "image": "https://m.media-amazon.com/images/I/81hoInxG08L._AC_UY218_.jpg"
+        },
+        "flipkart": {
+          "price": 165.99,
+          "rating": 4.6,
+          "reviews": 2123,
+          "availability": "In Stock",
+          "link": "https://www.flipkart.com/razer-huntsman-elite",
+          "image": "https://rukminim2.flixcart.com/image/416/416/jz4g3gw0/keyboard/gaming-keyboard/v/f/h/razer-huntsman-elite-original-imafj7fhg5dgzbrc.jpeg"
+        }
+      },
+      {
+        "id": "keyboard4",
+        "name": "Corsair K95 RGB Platinum",
+        "category": "keyboards",
+        "amazon": {
+          "price": 199.99,
+          "rating": 4.7,
+          "reviews": 3456,
+          "availability": "In Stock",
+          "link": "https://www.amazon.com/corsair-k95-rgb-platinum",
+          "image": "https://m.media-amazon.com/images/I/71rdEY5IHRL._AC_UY218_.jpg"
+        },
+        "flipkart": {
+          "price": 194.99,
+          "rating": 4.6,
+          "reviews": 2987,
+          "availability": "In Stock",
+          "link": "https://www.flipkart.com/corsair-k95-rgb-platinum",
+          "image": "https://rukminim2.flixcart.com/image/416/416/keyboard/gaming-keyboard/u/p/d/corsair-gaming-k95-rgb-original-imaeg8pkvtgz44hf.jpeg"
+        }
+      },
+      {
+        "id": "keyboard5",
+        "name": "SteelSeries Apex Pro",
+        "category": "keyboards",
+        "amazon": {
+          "price": 179.99,
+          "rating": 4.8,
+          "reviews": 2345,
+          "availability": "In Stock",
+          "link": "https://www.amazon.com/steelseries-apex-pro",
+          "image": "https://m.media-amazon.com/images/I/81hB5Z8XTfL._AC_UY218_.jpg"
+        },
+        "flipkart": {
+          "price": 184.99,
+          "rating": 4.7,
+          "reviews": 1987,
+          "availability": "In Stock",
+          "link": "https://www.flipkart.com/steelseries-apex-pro",
+          "image": "https://rukminim2.flixcart.com/image/416/416/ktvucnk0/keyboard/gaming-keyboard/7/m/u/apex-5-64532-steelseries-original-imag74bufacyd6yh.jpeg"
+        }
+      }
+    ],
+    "smartwatches": [
+      {
+        "id": "watch1",
+        "name": "Apple Watch Series 8",
+        "category": "smartwatches",
+        "amazon": {
+          "price": 399.99,
+          "rating": 4.8,
+          "reviews": 7654,
+          "availability": "In Stock",
+          "link": "https://www.amazon.com/apple-watch-series-8",
+          "image": "https://m.media-amazon.com/images/I/71XMTLtZd5L._AC_UY218_.jpg"
+        },
+        "flipkart": {
+          "price": 389.99,
+          "rating": 4.7,
+          "reviews": 6543,
+          "availability": "In Stock",
+          "link": "https://www.flipkart.com/apple-watch-series-8",
+          "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/smartwatch/y/l/e/-original-imaghxg9zwfvprhd.jpeg"
+        }
+      },
+      {
+        "id": "watch2",
+        "name": "Samsung Galaxy Watch 6",
+        "category": "smartwatches",
+        "amazon": {
+          "price": 299.99,
+          "rating": 4.6,
+          "reviews": 5432,
+          "availability": "In Stock",
+          "link": "https://www.amazon.com/samsung-galaxy-watch-6",
+          "image": "https://m.media-amazon.com/images/I/61Sl+xoVHoL._AC_UY218_.jpg"
+        },
+        "flipkart": {
+          "price": 289.99,
+          "rating": 4.5,
+          "reviews": 4321,
+          "availability": "In Stock",
+          "link": "https://www.flipkart.com/samsung-galaxy-watch-6",
+          "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/smartwatch/s/j/l/-original-imagsrn7rzzau4yx.jpeg"
+        }
+      },
+      {
+        "id": "watch3",
+        "name": "Fitbit Sense 2",
+        "category": "smartwatches",
+        "amazon": {
+          "price": 249.99,
+          "rating": 4.4,
+          "reviews": 3456,
+          "availability": "In Stock",
+          "link": "https://www.amazon.com/fitbit-sense-2",
+          "image": "https://m.media-amazon.com/images/I/71J25w9pYUL._AC_UY218_.jpg"
+        },
+        "flipkart": {
+          "price": 259.99,
+          "rating": 4.3,
+          "reviews": 3123,
+          "availability": "In Stock",
+          "link": "https://www.flipkart.com/fitbit-sense-2",
+          "image": "https://rukminim2.flixcart.com/image/416/416/kzfvzww0/smartwatch/t/m/r/android-sense-fitbit-original-imagbgcgwht6qrf6.jpeg"
+        }
+      },
+      {
+        "id": "watch4",
+        "name": "Garmin Forerunner 955",
+        "category": "smartwatches",
+        "amazon": {
+          "price": 499.99,
+          "rating": 4.7,
+          "reviews": 2345,
+          "availability": "In Stock",
+          "link": "https://www.amazon.com/garmin-forerunner-955",
+          "image": "https://m.media-amazon.com/images/I/71myk3U45CL._AC_UY218_.jpg"
+        },
+        "flipkart": {
+          "price": 489.99,
+          "rating": 4.6,
+          "reviews": 1987,
+          "availability": "In Stock",
+          "link": "https://www.flipkart.com/garmin-forerunner-955",
+          "image": "https://rukminim2.flixcart.com/image/416/416/l5bd5zk0/smartwatch/n/i/r/-original-imaggyfrfzcywdyb.jpeg"
+        }
+      }
+    ],
+    "cameras": [
+      {
+        "id": "camera1",
+        "name": "Canon EOS R6",
+        "category": "cameras",
+        "amazon": {
+          "price": 2499.99,
+          "rating": 4.8,
+          "reviews": 1234,
+          "availability": "In Stock",
+          "link": "https://www.amazon.com/canon-eos-r6",
+          "image": "https://m.media-amazon.com/images/I/713rQYMCOjL._AC_UY218_.jpg"
+        },
+        "flipkart": {
+          "price": 2449.99,
+          "rating": 4.7,
+          "reviews": 987,
+          "availability": "In Stock",
+          "link": "https://www.flipkart.com/canon-eos-r6",
+          "image": "https://rukminim2.flixcart.com/image/416/416/kit6hzk0/dslr-camera/e/o/h/eos-r6-eos-r6-canon-original-imafygewssz6rehm.jpeg"
+        }
+      },
+      {
+        "id": "camera2",
+        "name": "Sony Alpha a7 IV",
+        "category": "cameras",
+        "amazon": {
+          "price": 2799.99,
+          "rating": 4.7,
+          "reviews": 987,
+          "availability": "In Stock",
+          "link": "https://www.amazon.com/sony-alpha-a7-iv",
+          "image": "https://m.media-amazon.com/images/I/81cLeZJrZBL._AC_UY218_.jpg"
+        },
+        "flipkart": {
+          "price": 2749.99,
+          "rating": 4.6,
+          "reviews": 876,
+          "availability": "In Stock",
+          "link": "https://www.flipkart.com/sony-alpha-a7-iv",
+          "image": "https://rukminim2.flixcart.com/image/416/416/l0igvww0/dslr-camera/j/v/z/-original-imagca5kgecvhdsm.jpeg"
+        }
+      },
+      {
+        "id": "camera3",
+        "name": "Nikon Z6 II",
+        "category": "cameras",
+        "amazon": {
+          "price": 1999.99,
+          "rating": 4.6,
+          "reviews": 765,
+          "availability": "In Stock",
+          "link": "https://www.amazon.com/nikon-z6-ii",
+          "image": "https://m.media-amazon.com/images/I/81NmH-ZA5QL._AC_UY218_.jpg"
+        },
+        "flipkart": {
+          "price": 2049.99,
+          "rating": 4.5,
+          "reviews": 654,
+          "availability": "In Stock",
+          "link": "https://www.flipkart.com/nikon-z6-ii",
+          "image": "https://rukminim2.flixcart.com/image/416/416/kgsb1jk0/dslr-camera/x/h/j/z-6ii-z-6ii-nikon-original-imafwyrhrgyqzgsh.jpeg"
+        }
+      }
+    ]
+  }
+}

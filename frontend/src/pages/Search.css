@@ -1,0 +1,45 @@
+/* Professional theme with black, green and complementary colors */
+:root {
+  --background: #ffffff;
+  --foreground: #111827;
+  --card: #ffffff;
+  --card-foreground: #111827;
+  --primary: #047857;
+  --primary-foreground: #ffffff;
+  --secondary: #f9fafb;
+  --secondary-foreground: #374151;
+  --accent: #ecfdf5;
+  --accent-foreground: #065f46;
+  --destructive: #ef4444;
+  --destructive-foreground: #ffffff;
+  --border: #e5e7eb;
+  --input: #e5e7eb;
+  --ring: #10b981;
+  --radius: 0.375rem;
+  --muted: #6b7280;
+}
+
+/* Amazon and Flipkart brand colors with professional style */
+.text-amazon {
+  color: #047857; /* emerald-700 */
+}
+
+.bg-amazon {
+  background-color: #047857;
+}
+
+.hover\:bg-amazon-dark:hover {
+  background-color: #065f46; /* emerald-800 */
+}
+
+.text-flipkart {
+  color: #1e40af; /* blue-800 */
+}
+
+.bg-flipkart {
+  background-color: #1e40af;
+}
+
+.hover\:bg-flipkart-dark:hover {
+  background-color: #1e3a8a; /* blue-900 */
+}
