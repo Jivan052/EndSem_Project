@@ -40,10 +40,17 @@ const Register = () => {
 
     try {
       setLoading(true);
-      const { token, ...userData } = await register({ name, email, password });
+      const response = await register({ name, email, password });
+      console.log('Registration response:', response);
+      
+      // Extract token and user data from response
+      const { token, _id, name: userName, email: userEmail } = response;
+      const userData = { id: _id, name: userName, email: userEmail };
+      
       loginUser(userData, token);
       navigate('/');
     } catch (error) {
+      console.error('Registration error:', error);
       setError(error.message || 'Registration failed');
     } finally {
       setLoading(false);

@@ -6,7 +6,15 @@ export const register = async (userData) => {
     const response = await api.post('/auth/register', userData);
     return response.data;
   } catch (error) {
-    throw error.response?.data || { message: 'An error occurred during registration' };
+    console.error('Registration API error:', error);
+    if (error.response && error.response.data) {
+      if (error.response.data.message) {
+        throw { message: error.response.data.message };
+      } else if (error.response.data.errors && error.response.data.errors.length > 0) {
+        throw { message: error.response.data.errors[0].msg };
+      }
+    }
+    throw { message: 'An error occurred during registration' };
   }
 };
 
