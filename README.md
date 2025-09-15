@@ -1,4 +1,6 @@
 # PriceComp - Product Price Comparison Platform
+<img width="1513" height="822" alt="image" src="https://github.com/user-attachments/assets/ed5d2328-d405-4e0c-a3c1-4db7cd821ab7" />
+
 
 ![PriceComp](https://img.shields.io/badge/PriceComp-Product%20Comparison%20Platform-047857)
 ![React](https://img.shields.io/badge/React-18.0.0-61DAFB)
